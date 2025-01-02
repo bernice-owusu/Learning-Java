@@ -7,6 +7,18 @@ public class Rectangle {
     private double width;
     private int sides = 4;
 
+    // Add a default constructor constructor to the Rectangle class
+    public Rectangle() {
+        setLength(0);
+        setWidth(0);
+    }
+
+    // Add an all-arg constructor to the Rectangle class
+    public Rectangle(double length, double width) {
+        setLength(length);
+        setWidth(width);
+    }
+
     public double calculateArea() {
         return length * width;
     }
