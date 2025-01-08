@@ -7,21 +7,15 @@ public class WordCount {
     static String sentence = "I am a test sentence";
 
     public static void main(String[] args) {
-
-        String[] wordsBreakdown = wordsBreakGenerator(sentence);
-        printStrings(wordsBreakdown);
-
+        wordsBreakGenerator(sentence);
     }
 
-    public static String[] wordsBreakGenerator(String sentence) {
+    public static void wordsBreakGenerator(String sentence) {
         String[] wordsBreakdown = sentence.split(" ");
         System.out.println("Number of words: " + wordsBreakdown.length);
-        return wordsBreakdown;
-    }
-
-    public static void printStrings(String[] wordInString) {
-        for (String val : wordInString) {
+        for (String val : wordsBreakdown) {
             System.out.println(val);
         }
     }
+
 }
