@@ -4,22 +4,23 @@ Welcome to my Java learning journey! This repository is structured to reflect th
 
 ## Folder Structure
 
-### 1. [Basics](./basics)
+
+### 1. [Basics](https://github.com/bernice-owusu/Learning-Java/tree/main/src/basics)
    - Introduction to Java syntax, data types, and basic operations.
 
-### 2. [Decision Structure](./decision_structure)
+### 2. [Decision Structure](https://github.com/bernice-owusu/Learning-Java/tree/main/src/decision_structure)
    - Covers conditional statements like `if`, `else`, `else if`, and `switch` for making decisions in code.
 
-### 3. [Loops](./loops)
+### 3. [Loops](https://github.com/bernice-owusu/Learning-Java/tree/main/src/loops)
    - Learn about looping structures such as `for`, `while`, and `do-while` loops for iterative operations.
 
-### 4. [Methods](./methods)
+### 4. [Methods](https://github.com/bernice-owusu/Learning-Java/tree/main/src/methods)
    - Understand how to define and use methods, including examples like a "credit check method."
 
-### 5. [Arrays](./arrays)
+### 5. [Arrays](https://github.com/bernice-owusu/Learning-Java/tree/main/src/arrays)
    - Learn about array declarations, operations, and applications (e.g., word count sessions).
 
-### 6. [Objects](./objects)
+### 6. [Objects](.https://github.com/bernice-owusu/Learning-Java/tree/main/src/objects)
    - Practice instantiating and working with objects, a core concept in object-oriented programming.
 
 ## Future Topics
