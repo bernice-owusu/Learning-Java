@@ -1,18 +1,35 @@
-## Getting Started
+# Java Learning Repository
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to my Java learning journey! This repository is structured to reflect the key topics I'm studying as I delve deeper into Java programming. I'll continue adding more topics and examples as I learn.
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+### 1. [Basics](./basics)
+   - Introduction to Java syntax, data types, and basic operations.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### 2. [Decision Structure](./decision_structure)
+   - Covers conditional statements like `if`, `else`, `else if`, and `switch` for making decisions in code.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### 3. [Loops](./loops)
+   - Learn about looping structures such as `for`, `while`, and `do-while` loops for iterative operations.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### 4. [Methods](./methods)
+   - Understand how to define and use methods, including examples like a "credit check method."
 
-## Dependency Management
+### 5. [Arrays](./arrays)
+   - Learn about array declarations, operations, and applications (e.g., word count sessions).
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### 6. [Objects](./objects)
+   - Practice instantiating and working with objects, a core concept in object-oriented programming.
+
+## Future Topics
+- I much more as I explore the Java ecosystem!
+
+## How to Use This Repository
+
+1. Clone this repository:
+   ```bash
+   git clone [<repository-url>](https://github.com/bernice-owusu/Learning-Java)
+
+2. Navigate into a specific topic folder to explore its content.
+3. Run and modify the Java code to strengthen your understanding.
