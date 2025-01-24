@@ -3,9 +3,9 @@ package objects;
 // Write a class that describes the fields and methods of a rectangle.
 
 public class Rectangle {
-    private double length;
-    private double width;
-    private int sides = 4;
+    protected double length;
+    protected double width;
+    protected int sides = 4;
 
     // Add a default constructor constructor to the Rectangle class
     public Rectangle() {
